@@ -2,12 +2,16 @@
 ## Description 
 Here are a bunch of themes I've made for Firefox, feel free to use for anything you'd like!
 
+- [Firefloss](#firefloss)
+- [Firefloss (no background image)](#firefloss-no-image)
+- [Vivaldi Hot Pink](#vivaldi-hot-pink)
+- [Moonlight](#moonlight)
+
 ### Install
 All of these themes below have an install link that looks like `➕ Add '$theme_name' to your Firefox 🔥🦊`. Click on that and it'll take you to the Mozilla addons install page.
 
 ### Editing 
 All of these were created using https://color.firefox.com/. To edit any of these themes, change the `.xpi` extension to `.zip` and then open it up to make any changes you'd like. 😊
-
 
 ## Firefloss
 
